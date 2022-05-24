@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edd999fag
+- 👋 Hi, I’m @Edd
 - 👀 I’m interested in art and games
 - 🌱 I’m currently learning android development
 - 📫 How to reach me ...idk
