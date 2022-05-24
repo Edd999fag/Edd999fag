@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Edd999fag
 - 👀 I’m interested in art and games
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...idk
 
 <!---
 Edd999fag/Edd999fag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
